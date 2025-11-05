@@ -57,7 +57,7 @@ learning:
 Mi progreso en TryHackMe:
 <p align="center">
   <a href="https://tryhackme.com/p/justgr0w">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=763773" style='border:none;'> </iframe>
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=763773" style='border:none;'> </img>
   </a>
 </p>
 
