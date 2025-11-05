@@ -51,11 +51,7 @@ learning:
 
 ### 🏅 Logros
 Mi progreso en TryHackMe:
-<p align="center">
-  <a href="https://tryhackme.com/p/justgr0w">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/justgr0w.png" alt="TryHackMe Badge" />
-  </a>
-</p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=763773" style='border:none;'></iframe>
 
 ---
 
