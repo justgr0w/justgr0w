@@ -1,6 +1,6 @@
 <!-- 💚 Banner estilo Matrix -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=180&section=header&text=justgr0w%20%7C%20CTF%20Player%20%26%20Future%20Pentester&fontColor=00ff00&fontSize=28&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=180&section=header&text=justgr0w%20%7C%20CTF%20Player%20%26%20Future%20Pentester&fontColor=00ff00&fontSize=28&animation=fadeIn&fontAlignY=35" alt="Banner justgr0w" />
 </p>
 
 ---
@@ -51,7 +51,9 @@ learning:
 
 ### 🏅 Logros
 Mi progreso en TryHackMe:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=763773" style='border:none;'></iframe>
+<p align="center">
+  <a href="https://tryhackme.com/p/justgr0w"> <img src="https://tryhackme-badges.s3.amazonaws.com/justgr0w.png" alt="TryHackMe Badge" /> </a>
+</p>
 
 ---
 
