@@ -1,7 +1,11 @@
-<!-- 💚 Banner estilo Matrix -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=180&section=header&text=justgr0w%20%7C%20CTF%20Player%20%26%20Future%20Pentester&fontColor=00ff00&fontSize=28&animation=fadeIn&fontAlignY=35" alt="Banner justgr0w" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I%27m+0xDaveey;+Welcome+to+my+profile!" alt="Title" />
+  </a>
+</div>
 
 ---
 
@@ -52,7 +56,9 @@ learning:
 ### 🏅 Logros
 Mi progreso en TryHackMe:
 <p align="center">
-  <a href="https://tryhackme.com/p/justgr0w"> <img src="https://tryhackme-badges.s3.amazonaws.com/justgr0w.png" alt="TryHackMe Badge" /> </a>
+  <a href="https://tryhackme.com/p/justgr0w">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=763773" style='border:none;'> </iframe>
+  </a>
 </p>
 
 ---
@@ -68,5 +74,5 @@ Mi progreso en TryHackMe:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer" />
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
