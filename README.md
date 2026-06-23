@@ -74,17 +74,28 @@ currently:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Metasploit-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Wireshark-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Impacket-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/John%20Ripper-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Hydra-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Gobuster-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Penelope-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/BloodHound-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Nuclei-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
+  <a href="https://github.com/nmap/nmap" target="_blank"><img src="https://img.shields.io/badge/Nmap-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/rapid7/metasploit-framework" target="_blank"><img src="https://img.shields.io/badge/Metasploit-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp%20Suite-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/wireshark/wireshark" target="_blank"><img src="https://img.shields.io/badge/Wireshark-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/fortra/impacket" target="_blank"><img src="https://img.shields.io/badge/Impacket-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/openwall/john" target="_blank"><img src="https://img.shields.io/badge/John%20Ripper-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.shields.io/badge/Hydra-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/ffuf/ffuf" target="_blank"><img src="https://img.shields.io/badge/Ffuf-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/Pennyw0rth/NetExec" target="_blank"><img src="https://img.shields.io/badge/NetExec-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/gentilkiwi/mimikatz" target="_blank"><img src="https://img.shields.io/badge/Mimikatz-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/GhostPack/Rubeus" target="_blank"><img src="https://img.shields.io/badge/Rubeus-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/ropnop/kerbrute" target="_blank"><img src="https://img.shields.io/badge/Kerbrute-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/BloodHoundAD/BloodHound" target="_blank"><img src="https://img.shields.io/badge/BloodHound-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/HavocFramework/Havoc" target="_blank"><img src="https://img.shields.io/badge/Havoc%20C2-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/caido/caido" target="_blank"><img src="https://img.shields.io/badge/Caido-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/BishopFox/sliver" target="_blank"><img src="https://img.shields.io/badge/Sliver%20C2-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/projectdiscovery/nuclei" target="_blank"><img src="https://img.shields.io/badge/Nuclei-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/brightio/penelope" target="_blank"><img src="https://img.shields.io/badge/Penelope-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/Gallopsled/pwntools" target="_blank"><img src="https://img.shields.io/badge/Pwntools-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank"><img src="https://img.shields.io/badge/Ghidra-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/hugsy/gef" target="_blank"><img src="https://img.shields.io/badge/GEF-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
+  <a href="https://github.com/radareorg/radare2" target="_blank"><img src="https://img.shields.io/badge/Radare2-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/></a>
 </p>
 
 ---
