@@ -82,6 +82,9 @@ currently:
   <img src="https://img.shields.io/badge/John%20Ripper-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
   <img src="https://img.shields.io/badge/Hydra-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
   <img src="https://img.shields.io/badge/Gobuster-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Penelope-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/BloodHound-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Nuclei-004400?style=for-the-badge&logo=image%2Fpng&logoColor=00ff00"/>
 </p>
 
 ---
